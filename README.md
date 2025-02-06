@@ -1,6 +1,4 @@
----
-
-### 📌 **README.md** (Flask API for Number Classification)  
+📌 **README.md** (Flask API for Number Classification)  
 
 ```md
 # 📊 Flask Number Classification API
